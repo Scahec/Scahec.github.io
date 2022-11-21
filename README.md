@@ -13,6 +13,12 @@
 2. Dopamine
 3. Serotonin
 4. GABA
+---
+
+
+
+
+
 
 **HOW DO THEY INDIVIDUALLY WORK?**
 
