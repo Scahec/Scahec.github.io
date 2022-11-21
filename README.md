@@ -1,7 +1,7 @@
 ### Welcome to *Scahec.github.io*
 ---
 
-**What are Neurotransmitters?**
+## **What are Neurotransmitters?**
 - Your body cannot function without chemical messengers called neurotransmitters. They are responsible for transporting chemical "messages" from one neuron (nerve cell) to the following target cell. The following target cell may be a gland, muscle, or another nerve cell.
 
 
@@ -14,7 +14,7 @@
 3. Serotonin
 4. GABA
 
-## HOW DO THEY INDIVIDUALLY WORK?
+# HOW DO THEY INDIVIDUALLY WORK?
 
 
 1. **Ach**
