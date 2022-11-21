@@ -18,7 +18,9 @@
 
 
 1. **Ach**
- A neurotransmitter involved in memory, learning, and muscle.
+ - A neurotransmitter involved in memory, learning, and muscle.
+ 
+ 
  
  
  **Signs of a deficiency:** Constipation/gastroparesis, memory problems, difficulty with word recall when speaking, learning difficulties, dry mouth, dry eyes, Orthostatic hypotension, low muscle tone, depressed mood, fast heart rate, chronic inflammation, and emotional instability.
@@ -26,7 +28,9 @@
  
  
 2. **Dopamine**
- Positive emotions, satisfaction, comfort, and alertness.
+ - Positive emotions, satisfaction, comfort, and alertness.
+
+
 
 
  **Signs of a deficiency:** Lack of satisfaction and reward, exhaustion, depression, a lack of drive, and overeating.
@@ -34,7 +38,9 @@
  
  
 3. **Serotonin**
- Mood stability, self-assurance, pain tolerance, and sleep quality.
+ - Mood stability, self-assurance, pain tolerance, and sleep quality.
+ 
+ 
  
  
  **Signs of a deficiency:** Depression, worry, obsessiveness, low self-esteem, sleep problems, craving sweets, irritability, fearfulness, tantrums, violence, and sexual promiscuity.
@@ -42,7 +48,9 @@
  
  
 4. **GABA**
- Calmness and relaxation.
+ - Calmness and relaxation.
+ 
+ 
  
  
  **Signs of a deficiency:** Anxiety, panic tenseness, insecurity, sleeplessness, and seizures.
