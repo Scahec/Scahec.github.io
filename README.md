@@ -17,6 +17,8 @@
 **HOW DO THEY INDIVIDUALLY WORK?**
 
 
+
+
 1. **Ach**
  - A neurotransmitter involved in memory, learning, and muscle.
  
@@ -26,7 +28,10 @@
  
  
  
- **Signs of a deficiency:** Constipation/gastroparesis, memory problems, difficulty with word recall when speaking, learning difficulties, dry mouth, dry eyes, Orthostatic hypotension, low muscle tone, depressed mood, fast heart rate, chronic inflammation, and emotional instability.
+ 
+ **Signs of deficiency:** Constipation/gastroparesis, memory problems, difficulty with word recall when speaking, learning difficulties, dry mouth, dry eyes, Orthostatic hypotension, low muscle tone, depressed mood, fast heart rate, chronic inflammation, and emotional instability.
+ 
+ 
  
  
  
@@ -39,7 +44,9 @@
 
 
 
- **Signs of a deficiency:** Lack of satisfaction and reward, exhaustion, depression, a lack of drive, and overeating.
+ **Signs of deficiency:** Lack of satisfaction and reward, exhaustion, depression, a lack of drive, and overeating.
+ 
+ 
  
  
  
@@ -52,7 +59,10 @@
  
  
  
- **Signs of a deficiency:** Depression, worry, obsessiveness, low self-esteem, sleep problems, craving sweets, irritability, fearfulness, tantrums, violence, and sexual promiscuity.
+ 
+ **Signs of deficiency:** Depression, worry, obsessiveness, low self-esteem, sleep problems, craving sweets, irritability, fearfulness, tantrums, violence, and sexual promiscuity.
+ 
+ 
  
  
  
@@ -65,7 +75,8 @@
  
  
  
- **Signs of a deficiency:** Anxiety, panic tenseness, insecurity, sleeplessness, and seizures.
+ 
+ **Signs of deficiency:** Anxiety, panic tenseness, insecurity, sleeplessness, and seizures.
 
 
 
