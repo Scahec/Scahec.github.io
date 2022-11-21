@@ -41,6 +41,8 @@
  
  
  
+ 
+ 
 2. **Dopamine**
  - Positive emotions, satisfaction, comfort, and alertness.
 
@@ -51,6 +53,8 @@
 
 
  **Signs of deficiency:** Lack of satisfaction and reward, exhaustion, depression, a lack of drive, and overeating.
+ 
+ 
  
  
  
@@ -67,6 +71,8 @@
  
  
  **Signs of deficiency:** Depression, worry, obsessiveness, low self-esteem, sleep problems, craving sweets, irritability, fearfulness, tantrums, violence, and sexual promiscuity.
+ 
+ 
  
  
  
