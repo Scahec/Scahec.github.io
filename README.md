@@ -6,7 +6,7 @@
 
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcmrKteMoM7PiuyLQW8WkCTbwTdRl-Id1GA&usqp=CAU)
-
+---
 
 **4 types that I'm aware of contains the following:**
 1. Acetycholine (Ach)
@@ -15,7 +15,8 @@
 4. GABA
 
 
-
+1. **Ach**
+2
 
 
 
