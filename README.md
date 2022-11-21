@@ -23,12 +23,18 @@
  
  
  
+ 
+ 
+ 
  **Signs of a deficiency:** Constipation/gastroparesis, memory problems, difficulty with word recall when speaking, learning difficulties, dry mouth, dry eyes, Orthostatic hypotension, low muscle tone, depressed mood, fast heart rate, chronic inflammation, and emotional instability.
  
  
  
 2. **Dopamine**
  - Positive emotions, satisfaction, comfort, and alertness.
+
+
+
 
 
 
@@ -43,12 +49,18 @@
  
  
  
+ 
+ 
+ 
  **Signs of a deficiency:** Depression, worry, obsessiveness, low self-esteem, sleep problems, craving sweets, irritability, fearfulness, tantrums, violence, and sexual promiscuity.
  
  
  
 4. **GABA**
  - Calmness and relaxation.
+ 
+ 
+ 
  
  
  
