@@ -25,7 +25,7 @@
 
 
 
-1. **Ach**
+**Ach**
  : A neurotransmitter involved in memory, learning, and muscle.
  
  
