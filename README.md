@@ -26,7 +26,7 @@
 
 
 1. **Ach**
- - A neurotransmitter involved in memory, learning, and muscle.
+ : A neurotransmitter involved in memory, learning, and muscle.
  
  
  
@@ -44,7 +44,7 @@
  
  
 2. **Dopamine**
- - Positive emotions, satisfaction, comfort, and alertness.
+ : Positive emotions, satisfaction, comfort, and alertness.
 
 
 
@@ -61,7 +61,7 @@
  
  
 3. **Serotonin**
- - Mood stability, self-assurance, pain tolerance, and sleep quality.
+ : Mood stability, self-assurance, pain tolerance, and sleep quality.
  
  
  
@@ -79,7 +79,7 @@
  
  
 4. **GABA**
- - Calmness and relaxation.
+ : Calmness and relaxation.
  
  
  
