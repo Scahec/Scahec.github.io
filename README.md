@@ -19,19 +19,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
 **HOW DO THEY INDIVIDUALLY WORK?**
-
-
-
 
 
 
