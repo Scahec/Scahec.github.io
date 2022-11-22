@@ -35,6 +35,7 @@
  
  
  
+ 
  **Signs of deficiency:** Constipation/gastroparesis, memory problems, difficulty with word recall when speaking, learning difficulties, dry mouth, dry eyes, Orthostatic hypotension, low muscle tone, depressed mood, fast heart rate, chronic inflammation, and emotional instability.
  
  
